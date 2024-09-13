@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: "Headfirst Into (Type)Scripting"
+date: 2024-09-05
+published: true
+labels:
+  - TypeScript
+---
+
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+
 Prior to ICS 341, I have dabbled in other programming languages throughout both the classes that I have taken, and through the experiences which I had in life in general. If you could consider this to be “programming”, my very first experience in anything related to coding was when I was in middle school coding simple games and animations on Scratch, and sharing said games with my friends. I believe that this childhood experience shaped the way I view and think about programming languages. In Scratch, you program by basically connecting blocks of code together as if they were legos, and I still find myself thinking of the programming languages I am currently learning in this way, just simply connecting blocks of text together. It would not be until college where I picked up Java, C, C++, and most recently, JavaScript and TypeScript.
 
 I think TypeScript is a very interesting language. There was a lot that I am already familiar with, such as loops and arrays and what not, but it is the new features in TS that I have never seen before in any other language, along with its surprising similarities, that interested me the most. In terms of its “new features”, out of all the programming languages I have learned thus far, I felt that TS had the most diverse and varied ways of defining variables. The concept of being able to define a variable as an “any”, “unknown”, “never”, or as many of the other special types was very interesting to me. The “enum” feature also very much stood out to me as a very unique and useful aspect of TS, as I thought it would enable one to make a large incremental numeric list very easily and efficiently. One similarity I saw that TS had with the other languages which I have learned previously was in its casting. Besides the “as” keyword, which was another new thing to me, casting with “<>” in TS reminded me of C programming.
