@@ -8,7 +8,7 @@ published: true
 labels:
   - Competitive Programming
   - Java
-summary: "A solution I made to one of the many problems in CodeForces competitoons"
+summary: "A solution to a competitive programming problem"
 ---
 
 <img class="img-fluid" src="../img/target.png">
