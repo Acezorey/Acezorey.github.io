@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/codingstandards.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/codingstandards.png">
 
 ## Initial thoughts
 
