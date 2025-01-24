@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/rainbow_dice_bot_discord_icon.png
+image: img/rainbow_dice_bot_discord_icon.jpg
 title: "Discord Dice Bot"
 date: 2024
 published: true
