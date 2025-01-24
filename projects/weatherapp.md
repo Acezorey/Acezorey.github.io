@@ -10,7 +10,7 @@ labels:
   - CSS
   - HTML
   - API
-summary: "A text adventure game that I developed for ICS 313."
+summary: "Simple weather app developed to practice basic web development."
 ---
 
 <img class="img-fluid" src="../img/weatherapp.png">
