@@ -29,4 +29,4 @@ Not to say that AI is not an incredible tool, however, as proper use of AI can i
 
 ## Conclusion
 
-
+JavaScript and TypeScript are both very interesting and useful programming languages that were quite fun to learn in my opinion. Artificial Intelligence is a remarkably powerful and valuable tool that is here to stay, and all programmers may eventually have to learn how to implement AI into their workflows. Despite that, I still believe that it is very important to know the basics, and to have a strong coding foundation and understanding first.
