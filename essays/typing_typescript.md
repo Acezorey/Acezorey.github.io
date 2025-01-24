@@ -7,8 +7,10 @@ date: 2025-01-23
 published: true
 labels:
   - Typescript
+  - JavaScript
   - Education
   - Software Development
+  - Artificial Intelligence
 ---
 
 <img width="500px" class="" src="../img/helloworld.png">
