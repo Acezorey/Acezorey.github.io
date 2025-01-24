@@ -11,7 +11,7 @@ labels:
   - Software Development
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/helloworld.png">
+<img width="500px" class="" src="../img/helloworld.png">
 
 ## One of the best (and worst) things about JavaScript
 
