@@ -23,7 +23,9 @@ JavaScript but with explicit Types, aptly named "TypeScript", is, well, exactly 
 
 ## Use of Artificial Intelligence in general programming
 
+In the past few years, we have witnessed the explosion of Artificial Intelligence, and it has quickly found its way into so many different parts of our lives since. When it comes to programming, AI has become an incredibly popular tool used by many to help diagnose, debug, or even generate completely new blocks of code nigh-instantaneously with just a few prompts. Although I have used it to help me before, however, I personally believe that for a student/self-studier new to programming, they must first learn how to code well purely on their own the old fashioned way, just hands and a keyboard. I feel that it is important for students to develop that mental "logical muscle"/intuition when it comes to programming, and that doing so would help them massively down the line. When interviewing for internships or full time roles, for example, most companies do not allow their candidates to use any kind of AI when answering technical questions. An overreliance on AI as a crutch would stunt the growth of a programmer, in my opinion. It is like trying to work out and build muscle by having a robot lift all of your weights for you.
 
+Not to say that AI is not an incredible tool, however, as proper use of AI can increase a software developer's productivity tenfold in the workplace. Similar to using a robot to carry all of your heavy groceries for you. Artifical Intelligence has also almost essentially made programming help websites obsolete. Back then, I would spend lots of time searching on sites like StackOverflow for coding help. Nowadays, Google Gemini or ChatGPT just hands me the solution on a silver platter. 
 
 ## Conclusion
 
