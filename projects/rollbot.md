@@ -13,6 +13,6 @@ labels:
 summary: "A virtual tabletop dice roller for games, made convenient via Discord"
 ---
 
-<img class="img-fluid" src="../img/rolltesting.png">
+<img width="500px" class="img-fluid" src="../img/rolltesting.png">
 
 
