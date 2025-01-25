@@ -13,6 +13,6 @@ labels:
 summary: "Simple weather app developed to practice basic web development."
 ---
 
-<img width="500px" class="img-fluid" src="../img/weatherapp.png">
+<img width="700px" class="img-fluid" src="../img/weatherapp.png">
 
 
