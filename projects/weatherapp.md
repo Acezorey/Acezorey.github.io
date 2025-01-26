@@ -17,7 +17,7 @@ summary: "Simple weather app developed to practice basic web development."
 
 ## Overview
 
-A web application designed to return weather data of any inputted city name.
+A web application designed to return weather data of any inputted city name. Initially developed for educational purposes to learn web development skills.
 
 ## Technical Details
 
