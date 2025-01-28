@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/weathericon.jpg
 title: "Simple Weather App"
-date: 2024
+date: 2024-11
 published: true
 labels:
   - JavaScript
