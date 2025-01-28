@@ -11,6 +11,6 @@ labels:
   - NumPy
   - Educational
   - Jupyter Notebook
-summary: "Neural network developed and trained to recognize 2D images of clothing"
+summary: "Neural network developed and trained to recognize 2D images"
 ---
 
