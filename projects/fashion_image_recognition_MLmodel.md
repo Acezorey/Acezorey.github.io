@@ -14,7 +14,7 @@ labels:
 summary: "Neural network developed and trained to recognize 2D images"
 ---
 
-<img width="1000px" src="../img/dataset-cover.png">
+<img width="100%" src="../img/dataset-cover.png">
 
 ## Overview
 This program is a deep learning neural network developed entirely without using any machine learning libraries such as PyTorch, using only pure Python and NumPy. Designed with guidance from the book <a href="https://nnfs.io/">Neural Networks from Scratch</a>, this was made for educational purposes to learn of the mathematics and mechanics behind deep learning models.
