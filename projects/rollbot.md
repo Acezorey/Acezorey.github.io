@@ -10,7 +10,7 @@ labels:
   - Discord
   - VPS
   - API
-summary: "A virtual tabletop dice roller for games, made convenient via Discord"
+summary: "A virtual tabletop dice roller bot for games using Discord"
 ---
 
 <img width="800px" class="img-fluid" src="../img/rolltesting.png">
@@ -21,7 +21,9 @@ RollBot is a discord bot/application designed to execute and return the values o
 
 ## Technical Details
 
-RollBot is developed entirely using Python, using the discord.py library and consequently the Discord API to communicate directly to discord chats. To ensure 24/7 uptime, this program is hosted on PebbleHost, a paid virtual private server (VPS) service that specializes in hosting video game servers and discord bots.
+RollBot is developed entirely using Python, using the <a href="https://discordpy.readthedocs.io/en/stable/">discord.py</a> library and consequently the Discord API to communicate directly to discord chats. To ensure 24/7 uptime, this program is hosted on <a href="https://pebblehost.com/">PebbleHost</a>, a paid virtual private server (VPS) service that specializes in hosting video game servers and discord bots.
+
+This bot is also hosted on the <a href="https://discord.com/developers/docs/intro">Discord Developer Portal</a>, which enables it to be used within discord servers in the first place.
 
 To get help on commands, type "!help".
 
