@@ -22,11 +22,11 @@ This program is a deep learning neural network developed entirely without using 
 ## Technical Details
 This model was trained on the Fashion MNIST dataset (accessable on <a href="https://www.kaggle.com/datasets/zalando-research/fashionmnist">Kaggle</a>, examples of training data shown on top), a dataset containing tens of thousands of labeled 28x28 pixel images of articles of clothing.
 
-<img width="400px" src="../img/modeltraining.png">
+<img width="500px" src="../img/modeltraining.png">
 
 It is also indeed capable of recognizing pieces of clothing from test images, including hand drawn ones.
 
-<img width="400px" src="../img/modelprediction.png">
+<img width="500px" src="../img/modelprediction.png">
 
 ## Links
 Github: <a href="https://github.com/Acezorey/neural-network-learning">Link</a>
