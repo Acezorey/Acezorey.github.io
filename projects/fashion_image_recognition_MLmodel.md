@@ -17,7 +17,7 @@ summary: "Neural network developed and trained to recognize 2D images"
 <img width="100%" src="../img/dataset-cover.png">
 
 ## Overview
-This program is a deep learning neural network developed entirely without using any machine learning libraries such as PyTorch, using only pure Python and NumPy. Designed with guidance from the book <a href="https://nnfs.io/">Neural Networks from Scratch</a>, this was made for educational purposes to learn of the mathematics and mechanics behind deep learning models.
+This program is a deep learning neural network developed entirely without using any machine learning libraries, such as PyTorch or Tensorflow, using only pure Python and NumPy. Designed with guidance from the book <a href="https://nnfs.io/">Neural Networks from Scratch</a>, this was made for educational purposes to learn of the mathematics and mechanics behind deep learning models.
 
 ## Technical Details
 This model was trained on the Fashion MNIST dataset (accessable on <a href="https://www.kaggle.com/datasets/zalando-research/fashionmnist">Kaggle</a>, examples of training data shown on top), a dataset containing tens of thousands of labeled 28x28 pixel images of articles of clothing.
@@ -38,7 +38,7 @@ Using the calculated loss, the model then initiates the backward pass, utilizing
 
 This forward pass - backward pass process continues until the entirety of the training data has been processed by the model. The data itself is randomized during training to prevent the model from just memorizing a single kind of data (ex: memorizing what a shoe looks like and nothing else), and is also divided into smaller sets to allow for more efficient training.
 
-This model utilizes very heavy math, most notably linear algebra, calculus, and partial differential equations.
+This model utilizes a lot of math: most notably linear algebra, calculus, and partial differential equations.
 
 ## Links
 Github: <a href="https://github.com/Acezorey/neural-network-learning">Link</a>
