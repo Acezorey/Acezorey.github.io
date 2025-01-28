@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/deeplearning.jpg
 title: "Image Recognition Neural Network"
-date: 2025
+date: 2025-01
 published: true
 labels:
   - Artificial Intelligence
