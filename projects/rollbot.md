@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/rainbow_dice_bot_discord_icon.jpg
 title: "Discord Dice Bot"
-date: 2024
+date: 2025-01
 published: true
 labels:
   - Python
