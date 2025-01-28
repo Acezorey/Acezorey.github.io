@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/deeplearning.jpg
-title: "Micromouse"
+title: "Image Recognition Neural Network"
 date: 2025
 published: true
 labels:
@@ -11,6 +11,6 @@ labels:
   - NumPy
   - Educational
   - Jupyter Notebook
-summary: "Neural network developed and trained to recognize 2D images"
+summary: "Neural network developed and trained to recognize 2D images of clothing"
 ---
 
