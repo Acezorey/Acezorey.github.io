@@ -28,5 +28,7 @@ It is also indeed capable of recognizing pieces of clothing from test images, in
 
 <img width="500px" src="../img/modelprediction.png">
 
+(More info to be added later)
+
 ## Links
 Github: <a href="https://github.com/Acezorey/neural-network-learning">Link</a>
