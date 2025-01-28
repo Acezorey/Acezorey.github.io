@@ -34,7 +34,7 @@ This output is then sent through an activation function, in this instance the Re
 
 During training, the final output then has its loss and accuracy calculated via <a href="https://www.geeksforgeeks.org/categorical-cross-entropy-in-multi-class-classification/">categorical crossentropy</a>. 
 
-Using the calculated loss, the model then initiates the backward pass, utilizing the Adaptive Moment Estimation (<a href="https://www.geeksforgeeks.org/adam-optimizer/">Adam</a>) Optimizer function to update the various weights and biases used in the neural layers in order to reduce loss.
+Using the calculated loss, the model then initiates the backward pass, utilizing the Adaptive Moment Estimation (<a href="https://www.geeksforgeeks.org/adam-optimizer/">Adam</a>) Optimizer function to update the various weights and biases used in the neural layers in order to reduce loss and increase accuracy through <a href="https://www.geeksforgeeks.org/gradient-descent-algorithm-and-its-variants/">gradient descent</a>.
 
 This forward pass - backward pass process continues until the entirety of the training data has been processed by the model. The data itself is randomized during training to prevent the model from just memorizing a single kind of data (ex: memorizing what a shoe looks like and nothing else), and is also divided into smaller sets to allow for more efficient training.
 
