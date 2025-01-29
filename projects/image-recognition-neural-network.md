@@ -11,7 +11,7 @@ labels:
   - NumPy
   - Educational
   - Jupyter Notebook
-summary: "Neural network developed and trained to recognize 2D images"
+summary: "Deep learning neural network developed and trained to recognize 2D images"
 ---
 
 <img width="100%" src="../img/dataset-cover.png">
