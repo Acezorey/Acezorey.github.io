@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/weathericon.jpg
-title: "Simple Weather App"
+title: "City Weather App"
 date: 2024-11
 published: true
 labels:
@@ -10,7 +10,7 @@ labels:
   - CSS
   - HTML
   - API
-summary: "Simple weather app developed to practice basic web development"
+summary: "Weather app that returns the current weather conditions in cities"
 ---
 
 <img width="600px" class="img-fluid" src="../img/weatherapp.png">
@@ -21,7 +21,7 @@ A web application designed to return weather data of any inputted city name. Ini
 
 ## Technical Details
 
-Developed using HTML, CSS, and made interactive with JavaScript, all vanilla without the use of frameworks. Makes use of the OpenWeatherMap API to retrieve the weather data of cities. Returns the current temperature (C), humidity, and wind speed of the specified city. 
+Developed using HTML, CSS, and made interactive with JavaScript, all vanilla without the use of frameworks. Makes use of the OpenWeatherMap API to retrieve the weather data of cities. Returns the current temperature, humidity, and wind speed of the specified city, all in metric units. 
 
 ## Links
 
