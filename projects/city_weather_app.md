@@ -21,7 +21,7 @@ A web application designed to return weather data of any inputted city name. Ini
 
 ## Technical Details
 
-Developed using HTML, CSS, and made interactive with JavaScript, all vanilla without the use of frameworks. Makes use of the OpenWeatherMap API to retrieve the weather data of cities. Returns the current temperature, humidity, and wind speed of the specified city, all in metric units. 
+Developed using HTML, CSS, and JavaScript. Makes use of the <a href="https://openweathermap.org/">OpenWeatherMap API</a> to retrieve the weather data of cities. Returns the current temperature, humidity, and wind speed of the specified city, all in metric units. 
 
 ## Links
 
