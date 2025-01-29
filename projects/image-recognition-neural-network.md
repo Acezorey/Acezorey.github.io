@@ -20,6 +20,8 @@ summary: "Neural network developed and trained to recognize 2D images"
 This program is a deep learning neural network developed entirely without using any machine learning libraries, such as PyTorch or Tensorflow, using only pure Python and NumPy. Designed with guidance from the book <a href="https://nnfs.io/">Neural Networks from Scratch</a>, this was made for educational purposes to learn of the mathematics and mechanics behind deep learning models.
 
 ## Technical Details
+This AI model's source code is written in Python utilizing the <a href="https://numpy.org/">NumPy library</a>, all on one <a href="https://code.visualstudio.com/docs/datascience/jupyter-notebooks">Jupyter Notebook</a>. The Jupyter Notebook allows each block of code to be organized and run separately from one another for ease of development and testing.
+
 This model was trained on the Fashion MNIST dataset (accessable on <a href="https://www.kaggle.com/datasets/zalando-research/fashionmnist">Kaggle</a>, examples of training data shown on top), a dataset containing tens of thousands of labeled 28x28 pixel images of articles of clothing.
 
 <img width="500px" src="../img/modeltraining.png">
