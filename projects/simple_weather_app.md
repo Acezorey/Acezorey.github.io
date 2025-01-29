@@ -10,7 +10,7 @@ labels:
   - CSS
   - HTML
   - API
-summary: "Simple weather app developed to practice basic web development."
+summary: "Simple weather app developed to practice basic web development"
 ---
 
 <img width="600px" class="img-fluid" src="../img/weatherapp.png">
