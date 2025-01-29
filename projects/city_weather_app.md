@@ -10,7 +10,7 @@ labels:
   - CSS
   - HTML
   - API
-summary: "Weather app that returns the current weather conditions in cities"
+summary: "Web based application that returns the current weather conditions in cities"
 ---
 
 <img width="600px" class="img-fluid" src="../img/weatherapp.png">
