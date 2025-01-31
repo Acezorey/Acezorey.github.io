@@ -14,7 +14,7 @@ labels:
 
 ## Smart questions, what are they?
 
-When it comes to working as a software developer, or even just as a member of a workplace where people interact with each other regularly, asking questions is very important to facilitate effective communication. So important, in fact, that I would argue that productive two-way communication is literally impossible without asking questions. It does not have to be verbal communication either, it could even take the form of written or digital communication. Taking this a step further, a smart question esssentially is one that is very clear, specific, easy to understand, and easy to answer (to whoever has the knowledge to answer it). 
+When it comes to working as a software engineer, or even just as a member of a workplace where people interact with each other regularly, asking questions is very important to facilitate effective communication. So important, in fact, that I would argue that productive two-way communication is literally impossible without asking questions, and such communication is the backbone of every single kind of collaborative work (such as software engineering projects). It does not have to be verbal communication either, it could even take the form of written or digital communication. Taking this a step further, a smart question esssentially is one that is very clear, specific, easy to understand, and easy to answer (to whoever has the knowledge to answer it). 
 
 ## Examples
 
