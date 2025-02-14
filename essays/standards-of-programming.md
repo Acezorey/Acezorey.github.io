@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="700px" src="../img/standards.jpg">
+<img width="600px" src="../img/standards.jpg">
 
 ## Coding Standards
 
