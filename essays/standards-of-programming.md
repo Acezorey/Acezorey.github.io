@@ -10,6 +10,8 @@ labels:
   - Learning
 ---
 
+<img width="700px" src="../img/standards.jpg">
+
 ## Coding Standards
 
 Throughout my college education I have taken a number of programming classes. Through quite a few of them, I have been exposed to the idea of "coding standards", and I have had to accommodate such standards in my code before. Software developers are no doubt familiar with this concept, but to those who are not, coding standards are essentially a uniformed style that your written code must adhere to. This style can vary quite a lot, from company to company, or even from language to language. In many (arguably all) programming languages, there are many coding conventions that programmers generally stick to when writing in said language, which in itself could be considered a "coding standard", one shared culturally throughout all developers.
