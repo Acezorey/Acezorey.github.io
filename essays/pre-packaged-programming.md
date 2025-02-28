@@ -8,11 +8,13 @@ published: true
 labels:
   - Software Engineering
   - Learning
+  - Educational
 ---
 
 <img width="500px" src="../img/top_frontpage_recreation.png">
 
-(an imitation I made of <a href="https://www.theodinproject.com/">a website</a> using Bootstrap)
+(an imitation of <a href="https://www.theodinproject.com/">a website</a> I made using Bootstrap)
+
 
 ## Frameworks, what are they?
 
