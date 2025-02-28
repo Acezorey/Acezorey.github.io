@@ -13,7 +13,7 @@ labels:
 
 <img width="800px" src="../img/top_frontpage_recreation.png">
 
-(an imitation of <a href="https://www.theodinproject.com/">a website</a> I made using Bootstrap, a popular framework for web app development)
+(an imitation of <a href="https://www.theodinproject.com/" target="blank">a website</a> I made using Bootstrap, a popular framework for web app development)
 
 <br>
 
