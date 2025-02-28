@@ -15,6 +15,7 @@ labels:
 
 (an imitation of <a href="https://www.theodinproject.com/">a website</a> I made using Bootstrap)
 
+<br>
 
 ## Frameworks, what are they?
 
