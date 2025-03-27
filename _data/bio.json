@@ -14,9 +14,10 @@
     ]
   },
   "interests": [
-    { "name": "Software Engineering" },
+    { "name": "Engineering" },
     { "name": "Data Science" },
     { "name": "Machine Learning" },
+    { "name": "Electronics" },
   ],
   "skills": [
     {
