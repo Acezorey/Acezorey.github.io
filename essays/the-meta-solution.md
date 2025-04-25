@@ -11,6 +11,8 @@ labels:
   - Educational
 ---
 
+<img width="400px" src="../img/structural_design_patterns.png">
+
 ## The solution to all solutions
 
 In the pursuit of development towards new solutions people often run into the same kinds of problems over and over again. As some quite ingenious people in the past have noticed, such similar and commonly occuring problems often beget similar and commonly occuring solutions, which seem to have very similar structures. These same people decided to catalogue and formalize these repeating structures into what we now know as "Design Patterns".
@@ -19,7 +21,7 @@ This was a very interesting concept to me, and I thought of it as just a sort of
 
 ## Natural examples
 
-<img width="400px" src="../img/snailfish.jpg">
+<img width="500px" src="../img/snailfish.jpg">
 
 <em>The Phylliroe Sea Slug</em>
 
