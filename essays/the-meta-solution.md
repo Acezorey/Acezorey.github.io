@@ -19,6 +19,10 @@ This was a very interesting concept to me, and I thought of it as just a sort of
 
 ## Natural examples
 
+<img width="700px" src="../img/snailfish.jpg">
+
+<em>The Phylliroe Sea Slug</em>
+
 Probably the greatest unaware blind designer to ever exist is mother nature herself. In the pursuit of survival, life itself often runs into repeated and similar problems, and it often develops similar solutions to said problems. Need to develop flight? Evolve large and flat surfaces that you can move extremely fast and with enough force to lift yourself through the air (birds, bats, pterosaurs, insects). Need to swim? Develop a streamlined sleek body with the ability to push water via the use of undulation (fish, dolphins etc..). In biology this phenomenon is known as "convergent evolution", and I would argue that it is pretty similar to design patterns. Different life forms encountering the same survival problems would likely develop similarly structured solutions unknowingly, similar to how software developers on opposite sides of the world encountering the same programming problems would likely also develop similarly structured solutions unknowingly.
 
 ## Artificial examples
