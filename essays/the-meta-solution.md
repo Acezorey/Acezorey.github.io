@@ -11,7 +11,7 @@ labels:
   - Educational
 ---
 
-<img width="400px" src="../img/structural_design_patterns.png">
+<img width="500px" src="../img/structural_design_patterns.png">
 
 ## The solution to all solutions
 
@@ -31,7 +31,7 @@ In biology this phenomenon is known as "convergent evolution", and I would argue
 
 ## Artificial examples
 
-<img width="400px" src="../img/roofs.png">
+<img width="500px" src="../img/roofs.png">
 
 Then there are intentionally designed solutions produced by us, of course. As I stated in the first paragraph, chess theory is like a collection of design solutions to commonly encountered problems in the game of chess. There is also design patterns in architecture, such as sloped roofs for handling rain. Architecture itself is actually where this concept of "design patterns" comes from in the first place. There are similar examples in general technology as well. The need to mass produce written text gave rise to the Gutenberg Press and Chinese Wood Block printing, both operating on the principle of pressing ink onto a flat substrate through patterned blocks of material.
 
