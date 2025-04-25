@@ -11,7 +11,7 @@ labels:
   - Educational
 ---
 
-## The solution to all solutions
+## The solution to all solutions (of a particular set of problems)
 
 <img width="500px" src="../img/structural_design_patterns.png">
 
