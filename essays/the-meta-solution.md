@@ -11,9 +11,9 @@ labels:
   - Educational
 ---
 
-<img width="500px" src="../img/structural_design_patterns.png">
-
 ## The solution to all solutions
+
+<img width="500px" src="../img/structural_design_patterns.png">
 
 In the pursuit of development towards new solutions people often run into the same kinds of problems over and over again. As some quite ingenious people in the past have noticed, such similar and commonly occurring problems often beget similar and commonly occurring solutions, which seem to have very similar structures. These same people decided to catalogue and formalize these repeating structures into what we now know as "Design Patterns".
 
