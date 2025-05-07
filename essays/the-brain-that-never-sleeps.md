@@ -12,15 +12,15 @@ labels:
   - ICS 314 Coursework
 ---
 
-## "The Brain that Never Sleeps", And How I Used It in my Class
+# "The Brain that Never Sleeps", And How I Used It in my Class
 
-# I. Introduction
+## I. Introduction
 
 The emergence of seemingly all-knowing artificial intelligence in recent years has had large scale impacts on modern education. Because of its ability to quickly and seemingly be able to answer any question or conjure up any thought, artificial intelligence has been used both officially in the classroom to help explain material and even formulate lesson plans, and unofficially by many students for everything from helping to make study material to further explaining reading topics the student may not understand. 
 
 One of the main driving forces behind AI’s seemingly limitless ability is its ability to perform deep learning and analysis: essentially using simulated “neurons” allowing it to approximate anything to near (or in many cases literal) perfection, and perform advanced arithmetic analysis on the more analytical topics. Many modern AI platforms use this, including but not limited to: ChatGPT, Co-Pilot, and Claude. In the class for Software Engineering 1 at my university: ICS 314, I have made use of both ChatGPT and Github Co-Pilot (which is basically just ChatGPT) on many occasions.
 
-# II. Personal Experience with AI:
+## II. Personal Experience with AI:
 
 For my ICS 314 class specifically (a list of various topics and how I used/did not use AI on it):
 
@@ -81,19 +81,19 @@ This is quite literally the number one reason why I used AI in this class. Many 
 
 As far as I remember I do not think I used AI for anything other than the topic listed above.
 
-# III. Impact on Learning and Understanding
+## III. Impact on Learning and Understanding
 
 As one could probably ascertain from my answers above, AI use tremendously sped up my ability to learn and understand material, mainly through the form of helping to explain problems that I could not even begin to grasp. Especially within software engineering and web-dev, where I felt there was a lot of black-box functionality that I had to follow.
 
 I am sure this is the case for students everywhere, and it is likely the biggest reason why AI use is so popular in education: AI acts as a tutor that never sleeps, and one that seemingly knows everything. This could also potentially dampen a student’s problem solving ability, as they may become reliant on this AI tutor to do everything for them. 
 
-# IV. Practical Applications:
+## IV. Practical Applications:
 
 In the workforce, AI can be used to increase the productivity of each individual engineer and the efficiency of a software engineering team through making writing code and documentation way faster. There are also many software engineering projects out there that are made solely to express the functionality of AI, with numerous such startups formed around AI/LLM focused tools. Some are worth billions of dollars, such as Scale AI. 
 
 Although AI helps tremendously in coding, commercial software engineering in the real world is far more complex than just writing React components and coding as a whole is but a small section of developing apps such as Google or Instagram. The main part of software engineering from what I heard of is the design behind the system, and that is something that AI cannot do quite well yet, and is where humans are still required.
 
-# V. Challenges and Opportunities
+## V. Challenges and Opportunities
 
 While AI is quite a powerful tool, it of course has its limitations. From my use of AI, there were some errors that it was not able to fix on its own, which I and/or my team members had to fix manually. For example on our final project, our page for reporting user inputted data was just seemingly not reporting any data. AI was not really that big of a help here, as every suggestion it made did not even seem to diagnose the issue. 
 
@@ -101,7 +101,7 @@ It was not until, with the help of my team members, that we found out that it wa
 
 With that being said, AI can dramatically increase the productivity of students and their understanding of software design, by breaking down complicated but well structured concepts (like how React hooks work) to make it easier to understand.
 
-# VI. Comparative Analysis:
+## VI. Comparative Analysis:
 
 In comparison to traditional teaching methods, especially in the context of software engineering and programming education, AI seems to use many of the same techniques, namely breaking down concepts and thoroughly explaining them, as well as offering guidance through tutorials and/or code examples (which both AI and traditional teaching methods do). 
 
@@ -109,7 +109,7 @@ Where they differ however in my opinion is that traditional methods are often mu
 
 AI-enhanced learning methods can blend the best of both worlds and lead to classes that can teach at a fast and digestible pace to keep engagement, while still having sufficient rigor to train their students in the areas of software engineering.
 
-# VII. Future Considerations:
+## VII. Future Considerations:
 
 Artificial intelligence is rapidly improving, however, and I would not be surprised if there may come a time where such AI would become as good as the teachers themselves. I believe that any potential great leap of improvement in AI is gonna be made in the actual architecture behind its learning and optimization systems, with perhaps the biggest breakthrough in my opinion being an AI with the ability to truly “come up” with its own unique data, “uninspired” from any human data. Such an AI would be able to come up with entirely new methods of teaching altogether.
 
@@ -119,7 +119,7 @@ In the far future however, practically anything is possible. Artificial intellig
 
 The potential for AI is limitless it seems. Maybe one day, software development students may learn directly from an AI teacher, not in a classroom, but from a personalized tutor/teacher for each and every student with AI optimized and individualized lesson plans. Maybe one day, we would not even need to learn software development at all. 
 
-# VIII. Conclusion:
+## VIII. Conclusion:
 
 Artificial intelligence is a very useful tool that has helped me greatly in ICS 314, primarily through the debugging of highly esoteric coding errors and through helping me to navigate complex black box programming structures in various coding frameworks. 
 
