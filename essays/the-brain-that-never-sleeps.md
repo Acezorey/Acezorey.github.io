@@ -12,7 +12,7 @@ labels:
   - ICS 314 Coursework
 ---
 
-# And How I Used It in my Class (And Beyond)
+# And How I Used It In My Class (And Beyond)
 
 ## I. Introduction
 
