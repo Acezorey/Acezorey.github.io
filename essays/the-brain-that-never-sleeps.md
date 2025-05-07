@@ -78,7 +78,7 @@ Never used AI for this, as I had not yet felt the need to. I wrote all the docum
 
 #### 13. Quality assurance e.g. “What’s wrong with this code” or “Fix the ESLint errors in this code”
 
-This is quite literally the number one reason why I used AI in this class. Many a time I would write some web component, and it would not behave at all like I thought it would, throwing dozens of esoteric errors at times. AI was such a tremendous help here.
+This is quite literally the number one reason why I used AI in this class. Many a time I would write some web component, and it would not behave at all like I thought it would, throwing dozens of esoteric errors at times. AI was such a tremendous help here. For example when debugging the database in my final project, I would not understand why some prisma migrations would not go through, and Co-Pilot would explain that it is due to a mishap with my schema file.
 
 #### 14. Other uses in ICS 314 not listed
 
