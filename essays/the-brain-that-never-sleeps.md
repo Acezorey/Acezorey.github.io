@@ -14,7 +14,7 @@ labels:
 
 # ...And How I Used It In My Class (And Beyond)
 
-<img width="500px" src="../img/ai.jpg">
+<img width="600px" src="../img/ai.jpg">
 
 ## I. Introduction
 
