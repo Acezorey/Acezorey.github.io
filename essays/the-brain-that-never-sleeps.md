@@ -18,7 +18,7 @@ labels:
 
 The emergence of seemingly all-knowing artificial intelligence in recent years has had large scale impacts on modern education. Because of its ability to quickly and seemingly be able to answer any question or conjure up any thought, artificial intelligence has been used both officially in the classroom to help explain material and even formulate lesson plans, and unofficially by many students for everything from helping to make study material to further explaining reading topics the student may not understand. 
 
-One of the main driving forces behind AI’s seemingly limitless ability is its ability to perform deep learning and analysis: essentially using simulated “neurons” allowing it to approximate anything to near (or in many cases literal) perfection, and perform advanced arithmetic analysis on the more analytical topics. Many modern AI platforms use this, including but not limited to: ChatGPT, Co-Pilot, and Claude. In the class for Software Engineering 1 at my university: ICS 314, I have made use of both ChatGPT and Github Co-Pilot (which is basically just ChatGPT) on many occasions.
+One of the main driving forces behind AI’s seemingly limitless ability is its ability to perform deep learning and analysis: essentially using simulated “neurons” allowing it to approximate anything to near (or in many cases literal) perfection, and perform advanced arithmetic analysis on the more analytical topics. Many modern AI platforms use this, including but not limited to: ChatGPT, Co-Pilot, and Claude. In the class for Software Engineering 1 at my university: ICS 314, I have made use of Github Co-Pilot on many occasions.
 
 ## II. Personal Experience with AI:
 
@@ -26,7 +26,7 @@ For my ICS 314 class specifically (a list of various topics and how I used/did n
 
 1. Experience WODs e.g. E18
 
-I did not use AI for the initial experience WODs (EWODs), as they were mostly ones that tested your algorithmic knowledge at first, using simple code that I was familiar with, but I did use Co-Pilot/ChatGPT for the more web-dev oriented EWODs, such as Digits (E49 - E54). 
+I did not use AI for the initial experience WODs (EWODs), as they were mostly ones that tested your algorithmic knowledge at first, using simple code that I was familiar with, but I did use Co-Pilot for the more web-dev oriented EWODs, such as Digits (E49 - E54). 
 
 The main reason why was that I was extremely unfamiliar with the workings of various web-dev tools such as React and Nextjs, and AI allowed me to quickly understand the code and formatting required to make web pages using said tools, as well as debugging any confusing errors. This will be a very commonly recurring reason why I used AI going forward in this essay.
 
