@@ -76,7 +76,7 @@ Yes, I used AI when writing code on various EWODs, in-class WODs, practice WODs,
 
 Never used AI for this, as I had not yet felt the need to. I wrote all the documentation for my code by hand using my own understanding. For example: documenting how developers can use our code for our final project.
 
-#### 13. Quality assurance e.g. “What’s wrong with this code <code>” or “Fix the ESLint errors in <code>”
+#### 13. Quality assurance e.g. “What’s wrong with this code” or “Fix the ESLint errors in this code”
 
 This is quite literally the number one reason why I used AI in this class. Many a time I would write some web component, and it would not behave at all like I thought it would, throwing dozens of esoteric errors at times. AI was such a tremendous help here.
 
