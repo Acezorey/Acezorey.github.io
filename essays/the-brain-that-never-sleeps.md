@@ -26,61 +26,61 @@ One of the main driving forces behind AI’s seemingly limitless ability is its 
 
 For my ICS 314 class specifically (a list of various topics and how I used/did not use AI on it):
 
-1. Experience WODs e.g. E18
+### 1. Experience WODs e.g. E18
 
 I did not use AI for the initial experience WODs (EWODs), as they were mostly ones that tested your algorithmic knowledge at first, using simple code that I was familiar with, but I did use Co-Pilot for the more web-dev oriented EWODs, such as Digits (E49 - E54). 
 
 The main reason why was that I was extremely unfamiliar with the workings of various web-dev tools such as React and Nextjs, and AI allowed me to quickly understand the code and formatting required to make web pages using said tools, as well as debugging any confusing errors. This will be a very commonly recurring reason why I used AI going forward in this essay.
 
-2. In-class Practice WODs
+### 2. In-class Practice WODs
 
 I did not use AI initially, when the WODs more or less was just algorithmic knowledge, but as the  practice WODs moved into web-dev territory I am a little embarrassed to say that I became more and more reliant on the AI to help me. Specifically when doing things such as generating and/or explaining the functionality of React components.
 
-3. In-class WODs
+### 3. In-class WODs
 
 Same as above, with AI helping me tremendously underneath the time constraints when developing web pages.
 
-4. Essays
+### 4. Essays
 
 This is the main topic in this class that I never used AI with. Every essay that I made was purely made from my mind and hands. I may talk about AI in my essays, but I never used any AI tool to write or even help me to write an essay. I felt like I should not use AI for this topic specifically, as it would take away from my own personal voice and the nuance in my writing. AI systems like ChatGPT have pretty recognizable styles of writing, in my opinion. Plus, I feel that I should not use AI for at least the one skill that I am learning in this class that I could apply to everywhere and anywhere else: writing.
 
-5. Final project
+### 5. Final project
 
 In a completely opposite direction to the last topic, I used AI heavily in this one. Similar to what I said about the WODs, I used Co-Pilot to help generate and fix the bugs in web components.
 
-6. Learning a concept / tutorial
+### 6. Learning a concept / tutorial
 
 This one is a bit vague. If learning tutorials/concepts from the EWODs, then yes I did use AI to help me with web-dev. But learning about React/TypeScript/HTML I did that on my own. I felt that if I am gonna be using AI a lot, I should at least have a good grasp at the very fundamentals so that I at least know why things are working the way they are.
 
-7. Answering a question in class or in Discord
+### 7. Answering a question in class or in Discord
 
 Never used AI for this. Although I answered maybe only one question on Discord as far as I remember (it was about one of the EWODs), it was using purely what I knew and understood.
 
-8. Asking or answering a smart-question
+### 8. Asking or answering a smart-question
 
 Similar to above, never used AI for this. Used purely what I knew. I admittedly did not do this very much at all either.
 
-9. Coding example e.g. “give an example of using Underscore .pluck”
+### 9. Coding example e.g. “give an example of using Underscore .pluck”
 
 I used AI extensively here to help me with web-dev related questions. For example: using AI to give me an example of a value registry system to submit data on a page.
 
-10. Explaining code
+### 10. Explaining code
 
 Similar to above, I used AI to explain React components whenever I needed help.
 
-11. Writing code
+### 11. Writing code
 
 Yes, I used AI when writing code on various EWODs, in-class WODs, practice WODs, and for projects. Although I would always manually retouch the code afterwards to address any errors and to fit the code to any kind of required coding style.
 
-12. Documenting code
+### 12. Documenting code
 
 Never used AI for this, as I had not yet felt the need to. I wrote all the documentation for my code by hand using my own understanding. For example: documenting how developers can use our code for our final project.
 
-13. Quality assurance e.g. “What’s wrong with this code <code \here>” or “Fix the ESLint errors in <code \here>”
+### 13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
 
 This is quite literally the number one reason why I used AI in this class. Many a time I would write some web component, and it would not behave at all like I thought it would, throwing dozens of esoteric errors at times. AI was such a tremendous help here.
 
-14. Other uses in ICS 314 not listed
+### 14. Other uses in ICS 314 not listed
 
 As far as I remember I do not think I used AI for anything other than the topic listed above.
 
