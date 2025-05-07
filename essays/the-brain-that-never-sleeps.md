@@ -73,6 +73,7 @@ Similar to above, I used AI to explain React components whenever I needed help.
 Yes, I used AI when writing code on various EWODs, in-class WODs, practice WODs, and for projects. Although I would always manually retouch the code afterwards to address any errors and to fit the code to any kind of required coding style.
 
 12. Documenting code
+
 Never used AI for this, as I had not yet felt the need to. I wrote all the documentation for my code by hand using my own understanding. For example: documenting how developers can use our code for our final project.
 
 13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
