@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "\"The Brain That Never Sleeps\""
+title: "\"The Brain That Never Sleeps\"..."
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-06
 published: true
@@ -12,7 +12,9 @@ labels:
   - ICS 314 Coursework
 ---
 
-# And How I Used It In My Class (And Beyond)
+# ...And How I Used It In My Class (And Beyond)
+
+<img width="500px" src="../img/ai.jpg">
 
 ## I. Introduction
 
