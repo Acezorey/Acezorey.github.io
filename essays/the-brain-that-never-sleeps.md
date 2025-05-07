@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "Asking Smarter Questions"
+title: "The Brain That Never Sleeps"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-06
 published: true
 labels:
-  - Questions
-  - Answers
+  - Artificial Intelligence
   - Software Engineering
   - Educational
   - ICS 314 Coursework
