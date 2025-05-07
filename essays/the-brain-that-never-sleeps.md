@@ -82,7 +82,7 @@ This is quite literally the number one reason why I used AI in this class. Many 
 
 #### 14. Other uses in ICS 314 not listed
 
-As far as I remember I do not think I used AI for anything other than the topic listed above.
+As far as I remember I do not think I used AI for anything other than the topics listed above.
 
 ## III. Impact on Learning and Understanding
 
