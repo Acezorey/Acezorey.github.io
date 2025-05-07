@@ -32,7 +32,7 @@ I did not use AI for the initial experience WODs (EWODs), as they were mostly on
 
 The main reason why was that I was extremely unfamiliar with the workings of various web-dev tools such as React and Nextjs, and AI allowed me to quickly understand the code and formatting required to make web pages using said tools, as well as debugging any confusing errors. This will be a very commonly recurring reason why I used AI going forward in this essay.
 
-2. In-class Practice WODs
+\2. In-class Practice WODs
 
 I did not use AI initially, when the WODs more or less was just algorithmic knowledge, but as the  practice WODs moved into web-dev territory I am a little embarrassed to say that I became more and more reliant on the AI to help me. Specifically when doing things such as generating and/or explaining the functionality of React components.
 
