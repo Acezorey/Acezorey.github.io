@@ -4,7 +4,7 @@ type: essay
 title: Of The Essence
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-08
-published: false
+published: true
 labels:
   - ICS 314 Coursework
   - Educational
