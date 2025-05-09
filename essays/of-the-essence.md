@@ -10,7 +10,7 @@ labels:
   - Educational
 ---
 
-<img width="300px" src="../img/stopwatch_list.png">
+<img width="400px" src="../img/stopwatch_list.png">
 
 ## Tracking my working time
 
