@@ -28,5 +28,5 @@ Post-tracking, there were also some benefits to seeing how much time I actually 
 
 This activity was actually quite a bit more beneficial than I expected it to be, and not in a way that I expected either. By estimating the amount of time I would take and tracking it, I would get into a sort of feedback loop where my estimation would cause me to want to be more efficient in completing tasks, and the resulting time would then give me some feedback as to how to be more efficient, which would then cause me to change my estimations, and so on. 
 
-They were obviously not completely accurate, but the times were accurate enough to give me a sense of my working pace. I often took longer than I expected, and there were some hidden drawbacks such as unexpected amounts of pressure, but I believe that I still benefited from it more than not. Time is <i>of the essence</i> when completing tasks after all.
+They were obviously not completely accurate, but the times were accurate enough to give me a sense of my working pace. I often took longer than I expected, and there were some hidden drawbacks such as unexpected amounts of pressure, but I believe that I still benefited from it more than not. Time is of the essence when completing tasks after all.
 
