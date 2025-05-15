@@ -10,3 +10,5 @@ labels:
   - Educational
   - ICS 314 Coursework
 ---
+
+<img width="400px" src="../img/coding.jpeg">
