@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Engineering One Line At A Time"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-14
 published: true
