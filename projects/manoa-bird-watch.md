@@ -72,5 +72,5 @@ Here is the link to the github organization homepage: <a href="https://manoa-bir
 
 And the link to the deployed website itself: <a href="https://m1-git-main-jeffrey8193s-projects.vercel.app/" target="_blank">Manoa Bird Watch</a>
 
-Manoa Bird Watch was made by Ace Reyes, Alana Wesly, Jeffery Jian, and Chayanika Devi.
+Manoa Bird Watch was made by <a href="https://github.com/Acezorey">Ace Reyes</a> (me), <a href="https://github.com/awesly">Alana Wesly</a>, <a href="https://github.com/jeffrey8193">Jeffery Jian</a>, and <a href="https://github.com/Chayanika-Devi">Chayanika Devi</a>.
 
