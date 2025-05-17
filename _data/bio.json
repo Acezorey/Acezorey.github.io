@@ -6,7 +6,7 @@
     "email": "acezoe@hawaii.edu",
     "phone": "808-492-9404",
     "website": "https://acezorey.github.io",
-    "summary": "Undergraduate student studying for a B.S. degree in Electrical Engineering at UH Manoa. Expected to graduate by Spring 2028. Looking to work in power engineering, RF engineering, robotics, or semiconductors in the future.",
+    "summary": "Undergraduate student studying for a B.S. degree in Electrical Engineering at UH Manoa. Expected to graduate by Spring 2028. Looking to work in power or RF engineering in the future.",
     "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Acezorey", "url": "http://github.com/Acezorey" },
@@ -16,13 +16,12 @@
   "interests": [
     { "name": "Engineering" },
     { "name": "Data Science" },
-    { "name": "Machine Learning" },
     { "name": "Electronics" },
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "HTML", "CSS", "Python", "JavaScript"]
+      "keywords": [ "HTML", "CSS", "Python", "JavaScript", "TypeScript", "React", "Node.js", "Next.js", "PostgreSQL"]
     },
     {
       "name": "Toolsets/OS",
