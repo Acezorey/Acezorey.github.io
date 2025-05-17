@@ -46,9 +46,9 @@ This project was a great crash course on learning how to use React, Next.js, Pos
 
 ## Links
 
-Here is the link to the github organization homepage: <a href="https://manoa-bird-watch.github.io/">Homepage</a>
+Here is the link to the github organization homepage: <a href="https://manoa-bird-watch.github.io/" target="_blank">Homepage</a>
 
-And the link to the deployed website itself: <a href="https://m1-git-main-jeffrey8193s-projects.vercel.app/">Manoa Bird Watch</a>
+And the link to the deployed website itself: <a href="https://m1-git-main-jeffrey8193s-projects.vercel.app/" target="_blank">Manoa Bird Watch</a>
 
 Manoa Bird Watch was made by Ace Reyes, Alana Wesly, Jeffery Jian, and Chayanika Devi.
 
