@@ -10,7 +10,7 @@ labels:
   - PostgreSQL
   - Next.js
   - Vercel
-summary: "Web based application for users to store and share bird watching photos"
+summary: "Web based application for users to store and share bird watching photos in and around Manoa"
 ---
 
 ## Overview
