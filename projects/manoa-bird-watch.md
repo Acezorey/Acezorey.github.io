@@ -32,6 +32,7 @@ Homepage.
 <img src="../img/mbw_signup.png" width="700px">
 
 A sign in and sign up page.
+
 </br>
 
 <img src="../img/mbw_allbirds.png" width="700px">
