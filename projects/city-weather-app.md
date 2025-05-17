@@ -4,7 +4,7 @@ type: project
 image: img/weathericon.jpg
 title: "City Weather App"
 date: 2024-11
-published: true
+published: false
 labels:
   - JavaScript
   - CSS
