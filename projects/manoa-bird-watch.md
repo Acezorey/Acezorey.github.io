@@ -22,15 +22,30 @@ This website also displays every common species of bird found at the University 
 
 The full Manoa Bird Watch website uses 7 pages in total.
 
+<img src="../img/mbw_homepage.png" width="700px">
+
 Homepage.
 
+</br>
+
+<img src="../img/mbw_signin.png" width="700px">
+<img src="../img/mbw_signup.png" width="700px">
+
 A sign in and sign up page.
+</br>
+
+<img src="../img/mbw_allbirds.png" width="700px">
 
 Page that lists every common species of bird found in Manoa.
+</br>
 
 One that lists all sightings made by all users.
+</br>
 
 Another that allows each user to upload/report their own sightings.
+</br>
+
+<img src="../img/mbw_yoursightings.png" width="700px">
 
 And finally a page that lists each individual user’s own sightings.
 
