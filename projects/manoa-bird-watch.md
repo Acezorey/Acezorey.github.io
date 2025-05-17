@@ -15,7 +15,7 @@ summary: "Web based application for users to store and share bird watching photo
 
 ## Overview
 
-Manoa Bird Watch is a web-based application where users can create and log into accounts, share what birds they have encountered, and see what birds other people have encountered, as well as edit/deleter their own and comment on other sightings as they wish. This website also displays every common species of bird found at the University of Hawaii at Manoa’s campus, as well as the surrounding Manoa Valley. This full stack app was developed using React and Next.js in the frontend, and PostgreSQL with Prisma as the backend.
+Manoa Bird Watch is a web-based application where users can create and log into accounts, share what birds they have encountered, and see what birds other people have encountered, as well as edit/delete their own sightings and comment on other sightings (and their own) as they wish. This website also displays every common species of bird found at the University of Hawaii at Manoa’s campus, as well as the surrounding Manoa Valley. This full stack app was developed using React and Next.js in the frontend, and PostgreSQL with Prisma as the backend.
 
 ## Design
 
