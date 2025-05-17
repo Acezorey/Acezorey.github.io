@@ -32,21 +32,25 @@ A homepage.
 
 A sign in and sign up page.
 
+<br/>
 
 <img src="../img/mbw_allbirds.png" width="700px">
 
 Page that lists every common species of bird found in Manoa.
 
+<br/>
 
 <img src="../img/mbw_allsightings.png" width="700px">
 
 One that lists all sightings made by all users.
 
+<br/>
 
 <img src="../img/mbw_report.png" width="700px">
 
 Another that allows each user to upload/report their own sightings.
 
+<br/>
 
 <img src="../img/mbw_yoursightingnew.png" width="700px">
 
